@@ -1,0 +1,1740 @@
+{
+  "프론트엔드 › Angular": [
+    {
+      "name": "angular-development-core",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Angular v20+ (Signals, Standalone, Zoneless, SSR)"
+    },
+    {
+      "name": "angular-migration-architect",
+      "bundle": "frontend-ux-bundle",
+      "desc": "AngularJS → Angular 마이그레이션"
+    }
+  ],
+  "프론트엔드 › React / Next.js": [
+    {
+      "name": "react-nextjs-development",
+      "bundle": "frontend-ux-bundle",
+      "desc": "React + Next.js 14+ App Router, TypeScript, Tailwind"
+    },
+    {
+      "name": "nextjs-supabase-auth-setup",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Supabase Auth + Next.js App Router 통합"
+    },
+    {
+      "name": "tanstack-query-expert",
+      "bundle": "frontend-ux-bundle",
+      "desc": "TanStack Query (React Query) — 비동기 상태 관리"
+    },
+    {
+      "name": "dark-mode-react-ui",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Tailwind + Framer Motion 다크 대시보드 UI"
+    }
+  ],
+  "프론트엔드 › 모바일": [
+    {
+      "name": "ios-swift-developer",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Swift, SwiftUI, UIKit, Core Data"
+    },
+    {
+      "name": "ios-debugger-agent",
+      "bundle": "frontend-ux-bundle",
+      "desc": "LLDB, Instruments, 메모리 누수, 크래시 분석"
+    },
+    {
+      "name": "swift-concurrency-architect",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Swift Concurrency (async/await, Actor, TaskGroup)"
+    },
+    {
+      "name": "expo-building-native-ui",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Expo Router 앱 빌드 가이드"
+    },
+    {
+      "name": "expo-cicd-workflows",
+      "bundle": "frontend-ux-bundle",
+      "desc": "EAS 워크플로우 YAML, CI/CD"
+    },
+    {
+      "name": "expo-deployment-guide",
+      "bundle": "frontend-ux-bundle",
+      "desc": "App Store / Play Store / 웹 배포"
+    },
+    {
+      "name": "expo-dev-client-setup",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Expo 개발 클라이언트 빌드"
+    },
+    {
+      "name": "expo-upgrade-guide",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Expo SDK 버전 업그레이드"
+    },
+    {
+      "name": "flutter-development-expert",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Flutter 레이어드 아키텍처"
+    },
+    {
+      "name": "mobile-design",
+      "bundle": "frontend-ux-bundle",
+      "desc": "모바일 퍼스트·터치 퍼스트 디자인"
+    },
+    {
+      "name": "mobile-development-core",
+      "bundle": "frontend-ux-bundle",
+      "desc": "React Native / Flutter / 네이티브 크로스플랫폼"
+    },
+    {
+      "name": "multi-platform-app-builder",
+      "bundle": "frontend-ux-bundle",
+      "desc": "iOS/Android/Web/Desktop 단일 코드베이스"
+    },
+    {
+      "name": "unity-game-developer",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Unity C# — 2D/3D 게임, 물리, UI"
+    },
+    {
+      "name": "app-store-optimization",
+      "bundle": "frontend-ux-bundle",
+      "desc": "ASO — 키워드, 메타데이터, 스크린샷 최적화"
+    },
+    {
+      "name": "pwa-implementation-expert",
+      "bundle": "frontend-ux-bundle",
+      "desc": "PWA — 오프라인, 설치성, 캐싱 (Service Worker)"
+    }
+  ],
+  "프론트엔드 › 웹 프레임워크 / 도구": [
+    {
+      "name": "astro-framework-guide",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Astro — 콘텐츠 사이트, Islands 아키텍처"
+    },
+    {
+      "name": "telegram-mini-app-builder",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Telegram Mini App (TWA) 개발"
+    },
+    {
+      "name": "vitepress-docs-builder",
+      "bundle": "frontend-ux-bundle",
+      "desc": "VitePress 정적 사이트 생성"
+    },
+    {
+      "name": "typescript-expert",
+      "bundle": "frontend-ux-bundle",
+      "desc": "TypeScript 타입 레벨 프로그래밍, 모노레포"
+    }
+  ],
+  "프론트엔드 › 디자인 시스템": [
+    {
+      "name": "shadcn",
+      "bundle": "frontend-ux-bundle",
+      "desc": "shadcn/ui 컴포넌트 관리"
+    },
+    {
+      "name": "radix-ui-design-system",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Radix UI 헤드리스 컴포넌트 커스터마이징"
+    },
+    {
+      "name": "tailwind-design-system",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Tailwind CSS 디자인 시스템 (토큰, 변형, 반응형)"
+    },
+    {
+      "name": "antigravity-premium-design",
+      "bundle": "frontend-ux-bundle",
+      "desc": "GSAP + 3D CSS 인터랙티브 글래스모피즘 UI"
+    },
+    {
+      "name": "frontend-design",
+      "bundle": "frontend-ux-bundle",
+      "desc": "프로덕션 수준 프론트엔드 인터페이스 생성"
+    },
+    {
+      "name": "html-presentation-builder",
+      "bundle": "frontend-ux-bundle",
+      "desc": "애니메이션 풍부한 HTML 프레젠테이션"
+    },
+    {
+      "name": "motion-animation-optimizer",
+      "bundle": "frontend-ux-bundle",
+      "desc": "애니메이션 성능 감사 — 레이아웃 쓰래싱, GPU 최적화"
+    }
+  ],
+  "프론트엔드 › UI 도구": [
+    {
+      "name": "ui-accessibility-checker",
+      "bundle": "frontend-ux-bundle",
+      "desc": "WCAG 2.2 AA 접근성 감사"
+    },
+    {
+      "name": "ui-design-checker",
+      "bundle": "frontend-ux-bundle",
+      "desc": "디자인 시스템 준수 시각 검증"
+    },
+    {
+      "name": "ui-pattern-scaffolder",
+      "bundle": "frontend-ux-bundle",
+      "desc": "재사용 가능한 UI 패턴 생성 (카드, 그리드, 폼 등)"
+    },
+    {
+      "name": "ui-scaffold-component",
+      "bundle": "frontend-ux-bundle",
+      "desc": "새 UI 컴포넌트 스캐폴딩"
+    },
+    {
+      "name": "ui-scaffold-page",
+      "bundle": "frontend-ux-bundle",
+      "desc": "새 모바일 퍼스트 페이지 스캐폴딩"
+    },
+    {
+      "name": "web-interface-guidelines",
+      "bundle": "frontend-ux-bundle",
+      "desc": "웹 인터페이스 가이드라인 준수 검토"
+    }
+  ],
+  "프론트엔드 › Apple 디자인": [
+    {
+      "name": "apple-hig-foundations",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Apple Human Interface Guidelines"
+    },
+    {
+      "name": "apple-standard-product-design",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Apple 수준 제품 디자인 (Figma, 토큰, 모션)"
+    }
+  ],
+  "프론트엔드 › UX": [
+    {
+      "name": "ux-audit",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Nielsen 휴리스틱 기반 UX 감사"
+    },
+    {
+      "name": "ux-component-orchestration",
+      "bundle": "frontend-ux-bundle",
+      "desc": "Google Stitch AI 디자인 툴 프롬프트 작성"
+    },
+    {
+      "name": "ux-copy",
+      "bundle": "frontend-ux-bundle",
+      "desc": "UX 마이크로카피 (버튼, 빈 상태, 에러, 토스트)"
+    },
+    {
+      "name": "ux-customer-journey-mapping",
+      "bundle": "frontend-ux-bundle",
+      "desc": "엔드투엔드 고객 여정 지도"
+    },
+    {
+      "name": "ux-design-intelligence",
+      "bundle": "frontend-ux-bundle",
+      "desc": "UI/UX 설계 인텔리전스 (50+ 스타일, 161 컬러팔레트)"
+    },
+    {
+      "name": "ux-dynamic-theme-strategy",
+      "bundle": "frontend-ux-bundle",
+      "desc": "전문 폰트·컬러 테마 컬렉션"
+    },
+    {
+      "name": "ux-flow",
+      "bundle": "frontend-ux-bundle",
+      "desc": "유저 플로우 및 화면 구조 설계"
+    },
+    {
+      "name": "ux-interactive-canvas-logic",
+      "bundle": "frontend-ux-bundle",
+      "desc": "인터랙티브 캔버스 로직"
+    },
+    {
+      "name": "ux-strategic-orchestration",
+      "bundle": "frontend-ux-bundle",
+      "desc": "디자인 워크플로우 오케스트레이션"
+    },
+    {
+      "name": "ux-trust-privacy-strategy",
+      "bundle": "frontend-ux-bundle",
+      "desc": "데이터 수집 앱 프라이버시 설계"
+    },
+    {
+      "name": "ux-user-feedback-loop",
+      "bundle": "frontend-ux-bundle",
+      "desc": "로딩/빈 상태/에러/성공 피드백 상태"
+    }
+  ],
+  "프론트엔드 › 메타 / 오케스트레이션": [
+    {
+      "name": "antigravity-fullstack-workflow",
+      "bundle": "frontend-ux-bundle",
+      "desc": "SaaS MVP, 보안 감사, AI 에이전트 워크플로우 오케스트레이션"
+    },
+    {
+      "name": "antigravity-meta-intelligence",
+      "bundle": "frontend-ux-bundle",
+      "desc": "요구사항 파악 후 적절한 스킬 동적 선택 메타 스킬"
+    }
+  ],
+  "마케팅 › AI 이미지 / 미디어": [
+    {
+      "name": "ai-ad-image-generator",
+      "bundle": "marketing-growth-bundle",
+      "desc": "fal.ai AI 모델로 이미지·영상 생성"
+    },
+    {
+      "name": "ai-branded-podcast-creator",
+      "bundle": "marketing-growth-bundle",
+      "desc": "Azure OpenAI Realtime API 오디오 내러티브 생성"
+    },
+    {
+      "name": "ai-image-creation-studio",
+      "bundle": "marketing-growth-bundle",
+      "desc": "fal.ai 이미지 생성 라우터 (사진/아트 자동 선택)"
+    },
+    {
+      "name": "ai-image-refining-expert",
+      "bundle": "marketing-growth-bundle",
+      "desc": "AI 이미지 편집 — 스타일 트랜스퍼, 오브젝트 제거"
+    },
+    {
+      "name": "ai-image-upscaler-pro",
+      "bundle": "marketing-growth-bundle",
+      "desc": "AI 이미지·영상 해상도 업스케일"
+    },
+    {
+      "name": "google-imagen-creative-studio",
+      "bundle": "marketing-growth-bundle",
+      "desc": "Google Gemini 이미지 생성"
+    },
+    {
+      "name": "marketing-image-studio-pro",
+      "bundle": "marketing-growth-bundle",
+      "desc": "Google AI Studio 인플루언서 스타일 사진 생성"
+    },
+    {
+      "name": "pro-ai-image-workflow-comfyui",
+      "bundle": "marketing-growth-bundle",
+      "desc": "ComfyUI REST API 게이트웨이"
+    },
+    {
+      "name": "stability-ai-creative-studio",
+      "bundle": "marketing-growth-bundle",
+      "desc": "Stability AI (SD3.5) — text2img, img2img, inpainting"
+    },
+    {
+      "name": "marketing-audio-engine",
+      "bundle": "marketing-growth-bundle",
+      "desc": "fal.ai TTS/STT"
+    }
+  ],
+  "마케팅 › 콘텐츠": [
+    {
+      "name": "blog-writing-expert",
+      "bundle": "marketing-growth-bundle",
+      "desc": "Sentry 블로그 작성 기준 적용"
+    },
+    {
+      "name": "content-marketing-strategist",
+      "bundle": "marketing-growth-bundle",
+      "desc": "콘텐츠 전략, 토픽 클러스터, 에디토리얼 캘린더"
+    },
+    {
+      "name": "copywriting-essentials",
+      "bundle": "marketing-growth-bundle",
+      "desc": "랜딩페이지, 홈페이지, 프라이싱 페이지 카피"
+    },
+    {
+      "name": "social-content-creator",
+      "bundle": "marketing-growth-bundle",
+      "desc": "LinkedIn, Twitter/X, Instagram, TikTok 콘텐츠"
+    },
+    {
+      "name": "social-media-growth-orchestrator",
+      "bundle": "marketing-growth-bundle",
+      "desc": "Instagram/Telegram/WhatsApp 크로스채널 발행"
+    },
+    {
+      "name": "creative-algorithmic-art",
+      "bundle": "marketing-growth-bundle",
+      "desc": "알고리즘 아트 생성 (.md, .html, .js)"
+    }
+  ],
+  "마케팅 › 그로스 / 전환": [
+    {
+      "name": "churn-prevention",
+      "bundle": "marketing-growth-bundle",
+      "desc": "이탈 방지 — 취소 플로우, 세이브 오퍼, 던닝"
+    },
+    {
+      "name": "cold-email-outreach-expert",
+      "bundle": "marketing-growth-bundle",
+      "desc": "B2B 콜드 이메일 + 팔로업 시퀀스"
+    },
+    {
+      "name": "customer-retention",
+      "bundle": "marketing-growth-bundle",
+      "desc": "고객 리텐션·온보딩 전략"
+    },
+    {
+      "name": "email-subject-line-optimizer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "이메일 제목줄 최적화"
+    },
+    {
+      "name": "growth-form-optimizer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "폼 전환율 최적화 (리드 캡처, 데모 요청 등)"
+    },
+    {
+      "name": "growth-funnel-optimizer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "유저 온보딩·활성화·aha 모멘트 최적화"
+    },
+    {
+      "name": "growth-icp-analyzer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "이상적 고객 프로필 (ICP) 정의"
+    },
+    {
+      "name": "growth-micro-saas-strategy",
+      "bundle": "marketing-growth-bundle",
+      "desc": "마이크로 SaaS 빠른 런칭 전략"
+    },
+    {
+      "name": "growth-paywall-optimizer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "인앱 페이월·업그레이드 플로우 최적화"
+    },
+    {
+      "name": "growth-popup-optimizer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "팝업, 모달, 슬라이드인 전환 최적화"
+    },
+    {
+      "name": "growth-referral-strategy",
+      "bundle": "marketing-growth-bundle",
+      "desc": "바이럴 성장·레퍼럴 프로그램 설계"
+    },
+    {
+      "name": "growth-segmentation-expert",
+      "bundle": "marketing-growth-bundle",
+      "desc": "행동/JTBD/니즈 기반 유저 세그멘테이션"
+    },
+    {
+      "name": "high-conversion-landing-page",
+      "bundle": "marketing-growth-bundle",
+      "desc": "Next.js/React 고전환 랜딩페이지 (PAS, AIDA, BAB)"
+    },
+    {
+      "name": "lead-generation-tactics",
+      "bundle": "marketing-growth-bundle",
+      "desc": "리드 마그넷·이메일 캡처 최적화"
+    },
+    {
+      "name": "revops",
+      "bundle": "marketing-growth-bundle",
+      "desc": "리드 라이프사이클, 스코어링, CRM 프로세스 자동화"
+    }
+  ],
+  "마케팅 › 심리학": [
+    {
+      "name": "marketing-psychology-expert",
+      "bundle": "marketing-growth-bundle",
+      "desc": "심리 원칙, 인지 편향, 행동과학 적용"
+    },
+    {
+      "name": "marketing-psychology-brand-perception",
+      "bundle": "marketing-growth-bundle",
+      "desc": "브랜드 인식 심리학"
+    },
+    {
+      "name": "marketing-psychology-emotional-arc",
+      "bundle": "marketing-growth-bundle",
+      "desc": "감정적 호 마케팅"
+    },
+    {
+      "name": "marketing-psychology-loss-aversion",
+      "bundle": "marketing-growth-bundle",
+      "desc": "손실 회피 마케팅"
+    },
+    {
+      "name": "marketing-psychology-profiler",
+      "bundle": "marketing-growth-bundle",
+      "desc": "마케팅 심리 프로파일러"
+    },
+    {
+      "name": "marketing-psychology-scarcity",
+      "bundle": "marketing-growth-bundle",
+      "desc": "희소성 마케팅"
+    },
+    {
+      "name": "marketing-psychology-visual-emotion",
+      "bundle": "marketing-growth-bundle",
+      "desc": "시각적 감정 마케팅"
+    }
+  ],
+  "마케팅 › 도구 / 분석": [
+    {
+      "name": "marketing-creative-workflow-automation",
+      "bundle": "marketing-growth-bundle",
+      "desc": "AI 모델 체이닝 워크플로우 JSON 생성"
+    },
+    {
+      "name": "marketing-interview-transcriber",
+      "bundle": "marketing-growth-bundle",
+      "desc": "오디오 → 전문 마크다운 문서 변환"
+    },
+    {
+      "name": "marketing-sentiment-analyzer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "유저 피드백 감성 분석·세그멘테이션"
+    },
+    {
+      "name": "seo-aeo-mastery",
+      "bundle": "marketing-growth-bundle",
+      "desc": "SEO 키워드 리서치 + AEO 쿼리, 콘텐츠 맵"
+    }
+  ],
+  "마케팅 › 영업 / 설득": [
+    {
+      "name": "customer-support",
+      "bundle": "marketing-growth-bundle",
+      "desc": "AI 고객 지원 (대화형 AI, 티켓, 감성 분석)"
+    },
+    {
+      "name": "objection-preemptor",
+      "bundle": "marketing-growth-bundle",
+      "desc": "반론 선제 대응"
+    },
+    {
+      "name": "persuasive-copy-expert",
+      "bundle": "marketing-growth-bundle",
+      "desc": "설득력 있는 카피 작성"
+    },
+    {
+      "name": "pitch-deck",
+      "bundle": "marketing-growth-bundle",
+      "desc": "IR 피치덱·투자 유치 자료"
+    },
+    {
+      "name": "sales-pitch-psychologist",
+      "bundle": "marketing-growth-bundle",
+      "desc": "영업 피치 심리학"
+    },
+    {
+      "name": "social-proof-architect",
+      "bundle": "marketing-growth-bundle",
+      "desc": "소셜 프루프 설계"
+    },
+    {
+      "name": "value-proposition-architect",
+      "bundle": "marketing-growth-bundle",
+      "desc": "6파트 JTBD 가치 제안 설계"
+    },
+    {
+      "name": "viral-growth-architect",
+      "bundle": "marketing-growth-bundle",
+      "desc": "바이럴 제너레이터 툴 구축"
+    },
+    {
+      "name": "ux-persuasion-expert",
+      "bundle": "marketing-growth-bundle",
+      "desc": "UX 설득 전문가"
+    }
+  ],
+  "마케팅 › 비디오": [
+    {
+      "name": "video-asset-indexing-expert",
+      "bundle": "marketing-growth-bundle",
+      "desc": "VideoDB SDK — 업로드, 스트리밍, 검색, 편집"
+    },
+    {
+      "name": "video-marketing-asset-manager",
+      "bundle": "marketing-growth-bundle",
+      "desc": "비디오·오디오 인덱싱, 타임라인 편집, 자막"
+    },
+    {
+      "name": "viral-video-analyzer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "Memories.ai 비주얼 메모리 모델로 영상 분석"
+    },
+    {
+      "name": "youtube-content-summarizer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "YouTube 트랜스크립트 추출 + 요약"
+    }
+  ],
+  "마케팅 › 전략 / 기획": [
+    {
+      "name": "brand-voice-ai-developer",
+      "bundle": "marketing-growth-bundle",
+      "desc": "실시간 대화형 AI 음성 엔진 구축"
+    },
+    {
+      "name": "jtbd-strategy-engine",
+      "bundle": "marketing-growth-bundle",
+      "desc": "Jobs-to-be-Done 전략 엔진"
+    },
+    {
+      "name": "startup-financial-modeling",
+      "bundle": "marketing-growth-bundle",
+      "desc": "3-5년 재무 모델 (매출 예측, 비용 구조, 시나리오)"
+    },
+    {
+      "name": "user-persona-intelligence",
+      "bundle": "marketing-growth-bundle",
+      "desc": "JTBD 기반 유저 페르소나 3개 생성"
+    }
+  ],
+  "인프라 › AWS": [
+    {
+      "name": "aws-cost-cleanup",
+      "bundle": "infra-ai-bundle",
+      "desc": "미사용 AWS 리소스 자동 정리"
+    },
+    {
+      "name": "aws-cost-optimizer",
+      "bundle": "infra-ai-bundle",
+      "desc": "AWS Cost Explorer 비용 분석·최적화"
+    },
+    {
+      "name": "aws-serverless",
+      "bundle": "infra-ai-bundle",
+      "desc": "프로덕션용 서버리스 아키텍처"
+    },
+    {
+      "name": "aws-skills",
+      "bundle": "infra-ai-bundle",
+      "desc": "AWS 인프라 자동화·클라우드 아키텍처"
+    }
+  ],
+  "인프라 › 클라우드": [
+    {
+      "name": "cloud-architect",
+      "bundle": "infra-ai-bundle",
+      "desc": "AWS/Azure/GCP 멀티클라우드 설계, FinOps"
+    },
+    {
+      "name": "cloud-devops",
+      "bundle": "infra-ai-bundle",
+      "desc": "AWS/Azure/GCP, K8s, Terraform, CI/CD, 모니터링"
+    },
+    {
+      "name": "cost-optimization",
+      "bundle": "infra-ai-bundle",
+      "desc": "클라우드 비용 최적화 전략"
+    },
+    {
+      "name": "gcp-cloud-run",
+      "bundle": "infra-ai-bundle",
+      "desc": "GCP Cloud Run 서버리스"
+    },
+    {
+      "name": "hybrid-cloud-architect",
+      "bundle": "infra-ai-bundle",
+      "desc": "멀티클라우드 + 프라이빗 클라우드 복합 설계"
+    },
+    {
+      "name": "hybrid-cloud-networking",
+      "bundle": "infra-ai-bundle",
+      "desc": "VPN, Direct Connect, ExpressRoute 하이브리드 연결"
+    },
+    {
+      "name": "appdeploy",
+      "bundle": "infra-ai-bundle",
+      "desc": "웹앱 + API + DB + 파일스토리지 배포 (공개 URL)"
+    }
+  ],
+  "인프라 › Terraform / IaC": [
+    {
+      "name": "terraform-infrastructure",
+      "bundle": "infra-ai-bundle",
+      "desc": "Terraform IaC 워크플로우, 클라우드 리소스 프로비저닝"
+    }
+  ],
+  "인프라 › CI/CD / DevOps": [
+    {
+      "name": "bazel-build-optimization",
+      "bundle": "infra-ai-bundle",
+      "desc": "Bazel 빌드 최적화, 원격 실행"
+    },
+    {
+      "name": "deployment-engineer",
+      "bundle": "infra-ai-bundle",
+      "desc": "CI/CD 파이프라인, GitOps 워크플로우"
+    },
+    {
+      "name": "deployment-pipeline-design",
+      "bundle": "infra-ai-bundle",
+      "desc": "멀티스테이지 CI/CD 아키텍처 패턴"
+    },
+    {
+      "name": "devcontainer-setup",
+      "bundle": "infra-ai-bundle",
+      "desc": "devcontainer + Claude Code 설정"
+    },
+    {
+      "name": "devops-deploy",
+      "bundle": "infra-ai-bundle",
+      "desc": "Docker, GitHub Actions, AWS Lambda, SAM"
+    },
+    {
+      "name": "github-actions-templates",
+      "bundle": "infra-ai-bundle",
+      "desc": "GitHub Actions 워크플로우 템플릿"
+    },
+    {
+      "name": "github-workflows",
+      "bundle": "infra-ai-bundle",
+      "desc": "GitHub Issues/PR/Actions 운영 플레이북"
+    },
+    {
+      "name": "gitops-workflow",
+      "bundle": "infra-ai-bundle",
+      "desc": "ArgoCD + Flux GitOps 워크플로우"
+    },
+    {
+      "name": "turborepo-caching",
+      "bundle": "infra-ai-bundle",
+      "desc": "Turborepo 모노레포 빌드 캐싱"
+    }
+  ],
+  "인프라 › 데이터베이스": [
+    {
+      "name": "clickhouse",
+      "bundle": "infra-ai-bundle",
+      "desc": "ClickHouse 쿼리 최적화, 데이터 엔지니어링"
+    },
+    {
+      "name": "cqrs",
+      "bundle": "infra-ai-bundle",
+      "desc": "CQRS — 읽기/쓰기 모델 분리"
+    },
+    {
+      "name": "event-sourcing",
+      "bundle": "infra-ai-bundle",
+      "desc": "이벤트 소싱, CQRS, 사가 오케스트레이션"
+    },
+    {
+      "name": "event-store",
+      "bundle": "infra-ai-bundle",
+      "desc": "이벤트 스토어 설계·구현"
+    },
+    {
+      "name": "multi-tenant-saas",
+      "bundle": "infra-ai-bundle",
+      "desc": "PostgreSQL 멀티테넌트 SaaS, 행 수준 보안"
+    },
+    {
+      "name": "neon-postgres",
+      "bundle": "infra-ai-bundle",
+      "desc": "Neon 서버리스 Postgres, 브랜칭"
+    },
+    {
+      "name": "postgresql",
+      "bundle": "infra-ai-bundle",
+      "desc": "PostgreSQL 스키마 설계, 인덱싱, 고급 기능"
+    },
+    {
+      "name": "postgresql-optimization",
+      "bundle": "infra-ai-bundle",
+      "desc": "PostgreSQL 쿼리 튜닝, 인덱스 전략"
+    },
+    {
+      "name": "snowflake-platform",
+      "bundle": "infra-ai-bundle",
+      "desc": "Snowflake SQL, 데이터 파이프라인, Cortex AI"
+    },
+    {
+      "name": "sql-migrations",
+      "bundle": "infra-ai-bundle",
+      "desc": "제로다운타임 SQL 마이그레이션"
+    }
+  ],
+  "인프라 › AI / ML": [
+    {
+      "name": "claude-api",
+      "bundle": "infra-ai-bundle",
+      "desc": "Claude API / Anthropic SDK 앱 개발"
+    },
+    {
+      "name": "computer-use-agents",
+      "bundle": "infra-ai-bundle",
+      "desc": "컴퓨터 사용 AI 에이전트 구축"
+    },
+    {
+      "name": "computer-vision-expert",
+      "bundle": "infra-ai-bundle",
+      "desc": "YOLO26, SAM3, Vision Language Models"
+    },
+    {
+      "name": "crewai",
+      "bundle": "infra-ai-bundle",
+      "desc": "CrewAI 역할 기반 멀티에이전트 프레임워크"
+    },
+    {
+      "name": "gemini-api-dev",
+      "bundle": "infra-ai-bundle",
+      "desc": "Google Gemini API 개발"
+    },
+    {
+      "name": "gemini-api-integration",
+      "bundle": "infra-ai-bundle",
+      "desc": "Gemini API 통합 — 멀티모달, 스트리밍, 함수 호출"
+    },
+    {
+      "name": "hosted-agents",
+      "bundle": "infra-ai-bundle",
+      "desc": "샌드박스 환경 백그라운드 에이전트"
+    },
+    {
+      "name": "knowledge-extraction",
+      "bundle": "infra-ai-bundle",
+      "desc": "AI 모델에서 구조화된 도메인 지식 추출"
+    },
+    {
+      "name": "langchain-langgraph-agents",
+      "bundle": "infra-ai-bundle",
+      "desc": "LangChain 0.1+ / LangGraph 프로덕션 에이전트"
+    },
+    {
+      "name": "langfuse",
+      "bundle": "infra-ai-bundle",
+      "desc": "LLM 관찰 가능성 플랫폼 Langfuse"
+    },
+    {
+      "name": "langgraph",
+      "bundle": "infra-ai-bundle",
+      "desc": "LangGraph 프로덕션 프레임워크"
+    },
+    {
+      "name": "local-llm-expert",
+      "bundle": "infra-ai-bundle",
+      "desc": "Ollama, llama.cpp, vLLM, LM Studio 로컬 LLM"
+    },
+    {
+      "name": "pipecat-friday-agent",
+      "bundle": "infra-ai-bundle",
+      "desc": "Pipecat + Gemini 저지연 음성 어시스턴트"
+    },
+    {
+      "name": "pydantic-ai",
+      "bundle": "infra-ai-bundle",
+      "desc": "PydanticAI — 타입 안전 AI 에이전트"
+    },
+    {
+      "name": "voice-agents",
+      "bundle": "infra-ai-bundle",
+      "desc": "음성 AI 에이전트 구축"
+    }
+  ],
+  "인프라 › 데이터 사이언스 / Python": [
+    {
+      "name": "alpha-vantage",
+      "bundle": "infra-ai-bundle",
+      "desc": "20년+ 글로벌 금융 데이터 (주식, 옵션, 포렉스, 크립토)"
+    },
+    {
+      "name": "backtesting-frameworks",
+      "bundle": "infra-ai-bundle",
+      "desc": "프로덕션용 백테스팅 시스템"
+    },
+    {
+      "name": "biopython",
+      "bundle": "infra-ai-bundle",
+      "desc": "바이오파이썬 — 서열 조작, 파일 I/O, 생물정보학"
+    },
+    {
+      "name": "embedding-strategies",
+      "bundle": "infra-ai-bundle",
+      "desc": "벡터 검색용 임베딩 모델 선택·최적화"
+    },
+    {
+      "name": "hybrid-search-implementation",
+      "bundle": "infra-ai-bundle",
+      "desc": "벡터 + 키워드 하이브리드 검색 (RAG)"
+    },
+    {
+      "name": "matplotlib",
+      "bundle": "infra-ai-bundle",
+      "desc": "Python 정적·애니메이션·인터랙티브 플롯"
+    },
+    {
+      "name": "networkx",
+      "bundle": "infra-ai-bundle",
+      "desc": "복잡 네트워크·그래프 분석"
+    },
+    {
+      "name": "polars",
+      "bundle": "infra-ai-bundle",
+      "desc": "고속 DataFrame (1-100GB, pandas 대체)"
+    },
+    {
+      "name": "rag-engineer",
+      "bundle": "infra-ai-bundle",
+      "desc": "RAG 시스템 구축"
+    },
+    {
+      "name": "scanpy",
+      "bundle": "infra-ai-bundle",
+      "desc": "단일세포 RNA-seq 분석 (scRNA-seq)"
+    },
+    {
+      "name": "scikit-learn",
+      "bundle": "infra-ai-bundle",
+      "desc": "ML — 분류, 회귀, 클러스터링, 파이프라인"
+    },
+    {
+      "name": "seaborn",
+      "bundle": "infra-ai-bundle",
+      "desc": "통계 그래픽 시각화"
+    },
+    {
+      "name": "statsmodels",
+      "bundle": "infra-ai-bundle",
+      "desc": "Python 통계 모델링, 추정, 추론"
+    },
+    {
+      "name": "stock-research",
+      "bundle": "infra-ai-bundle",
+      "desc": "논문 기반 주식 분석 (SEC EDGAR)"
+    },
+    {
+      "name": "sympy",
+      "bundle": "infra-ai-bundle",
+      "desc": "Python 기호 수학"
+    },
+    {
+      "name": "vector-database-engineer",
+      "bundle": "infra-ai-bundle",
+      "desc": "Pinecone, Weaviate, Qdrant, Milvus, pgvector"
+    },
+    {
+      "name": "vector-index-tuning",
+      "bundle": "infra-ai-bundle",
+      "desc": "HNSW 파라미터, 양자화 전략 최적화"
+    }
+  ],
+  "인프라 › 네트워킹 / 보안": [
+    {
+      "name": "backend-security",
+      "bundle": "infra-ai-bundle",
+      "desc": "백엔드 보안 (입력 검증, 인증, API 보안)"
+    },
+    {
+      "name": "config-validation",
+      "bundle": "infra-ai-bundle",
+      "desc": "설정 검증 스키마 구현"
+    },
+    {
+      "name": "grpc-go",
+      "bundle": "infra-ai-bundle",
+      "desc": "gRPC Go 서비스 (mTLS, 스트리밍, 관찰 가능성)"
+    },
+    {
+      "name": "laravel-security",
+      "bundle": "infra-ai-bundle",
+      "desc": "Laravel 보안 감사 (OWASP)"
+    },
+    {
+      "name": "mtls-configuration",
+      "bundle": "infra-ai-bundle",
+      "desc": "제로트러스트 mTLS 서비스간 통신"
+    },
+    {
+      "name": "network-engineer",
+      "bundle": "infra-ai-bundle",
+      "desc": "클라우드 네트워킹, 보안 아키텍처"
+    },
+    {
+      "name": "spec-to-code-compliance",
+      "bundle": "infra-ai-bundle",
+      "desc": "스펙-코드 준수 검증 (블록체인 감사)"
+    },
+    {
+      "name": "wireshark-analysis",
+      "bundle": "infra-ai-bundle",
+      "desc": "Wireshark 네트워크 트래픽 분석"
+    }
+  ],
+  "인프라 › 플랫폼 / 통합": [
+    {
+      "name": "convex-platform",
+      "bundle": "infra-ai-bundle",
+      "desc": "Convex 리액티브 백엔드 (TypeScript, 실시간)"
+    },
+    {
+      "name": "django-access-control",
+      "bundle": "infra-ai-bundle",
+      "desc": "Django 접근 제어"
+    },
+    {
+      "name": "firebase-backend",
+      "bundle": "infra-ai-bundle",
+      "desc": "Firebase — 인증, DB, 스토리지"
+    },
+    {
+      "name": "graphql-architecture",
+      "bundle": "infra-ai-bundle",
+      "desc": "GraphQL 페더레이션, 캐싱, 실시간"
+    },
+    {
+      "name": "k6-load-testing",
+      "bundle": "infra-ai-bundle",
+      "desc": "k6 부하 테스트 — API, 브라우저, CI/CD"
+    },
+    {
+      "name": "playwright-e2e",
+      "bundle": "infra-ai-bundle",
+      "desc": "Playwright E2E 테스트"
+    },
+    {
+      "name": "salesforce-platform",
+      "bundle": "infra-ai-bundle",
+      "desc": "Salesforce 플랫폼 개발 패턴"
+    },
+    {
+      "name": "segment-cdp",
+      "bundle": "infra-ai-bundle",
+      "desc": "Segment CDP 패턴"
+    },
+    {
+      "name": "shopify-embedded-apps",
+      "bundle": "infra-ai-bundle",
+      "desc": "Shopify 앱 개발 (Remix/React)"
+    },
+    {
+      "name": "shopify-platform",
+      "bundle": "infra-ai-bundle",
+      "desc": "Shopify GraphQL Admin API, Polaris, Liquid"
+    },
+    {
+      "name": "temporal-python-testing",
+      "bundle": "infra-ai-bundle",
+      "desc": "Temporal 워크플로우 pytest 테스트"
+    },
+    {
+      "name": "whatsapp-cloud-api",
+      "bundle": "infra-ai-bundle",
+      "desc": "WhatsApp Business Cloud API 통합"
+    }
+  ],
+  "인프라 › 기타": [
+    {
+      "name": "powershell-windows",
+      "bundle": "infra-ai-bundle",
+      "desc": "PowerShell Windows 패턴"
+    },
+    {
+      "name": "screen-reader-testing",
+      "bundle": "infra-ai-bundle",
+      "desc": "스크린 리더 접근성 테스트"
+    },
+    {
+      "name": "shellcheck-configuration",
+      "bundle": "infra-ai-bundle",
+      "desc": "ShellCheck 쉘 스크립트 정적 분석"
+    },
+    {
+      "name": "spark-optimization",
+      "bundle": "infra-ai-bundle",
+      "desc": "Apache Spark 파티셔닝, 캐싱, 셔플 최적화"
+    },
+    {
+      "name": "subagent-driven-development",
+      "bundle": "infra-ai-bundle",
+      "desc": "독립 태스크 병렬 서브에이전트 실행"
+    },
+    {
+      "name": "using-git-worktrees",
+      "bundle": "infra-ai-bundle",
+      "desc": "Git 워크트리로 멀티 브랜치 동시 작업"
+    }
+  ],
+  "메타 › 스킬 관리": [
+    {
+      "name": "skill-manager",
+      "bundle": ".",
+      "desc": "프로젝트 분석 후 스킬 자동 추천·설치"
+    }
+  ],
+  "1인 기업 › 자동화": [
+    {
+      "name": "n8n-automation",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "n8n 워크플로 자동화 입문"
+    },
+    {
+      "name": "n8n-workflow-patterns",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "n8n 아키텍처 패턴"
+    },
+    {
+      "name": "n8n-node-configuration",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "n8n 노드 설정 가이드"
+    },
+    {
+      "name": "n8n-code-javascript",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "n8n Code 노드 JavaScript"
+    },
+    {
+      "name": "n8n-code-python",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "n8n Code 노드 Python"
+    },
+    {
+      "name": "n8n-expression-syntax",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "n8n 표현식 문법"
+    },
+    {
+      "name": "n8n-mcp-tools-expert",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "n8n MCP 도구 연동"
+    },
+    {
+      "name": "n8n-validation-expert",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "n8n 워크플로 검증"
+    }
+  ],
+  "1인 기업 › 결제 연동": [
+    {
+      "name": "toss-payments",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "토스페이먼츠 V2 — 카드, 간편결제, 빌링(구독)"
+    },
+    {
+      "name": "portone-payments",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "포트원(iamport) V2 — PG사 통합 (카카오페이, 네이버페이 등)"
+    }
+  ],
+  "1인 기업 › 분석 / 법무": [
+    {
+      "name": "product-analytics",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "PostHog / GA4 — 유저 행동 추적, 퍼널, 리텐션 분석"
+    },
+    {
+      "name": "korean-legal-templates",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "개인정보처리방침, 이용약관, 환불정책 (한국 법령 기반)"
+    }
+  ],
+  "인프라 › Docker": [
+    {
+      "name": "docker-expert",
+      "bundle": "infra-ai-bundle",
+      "desc": "Docker 최적화, 보안 강화, 멀티스테이지 빌드"
+    }
+  ],
+  "인프라 › 관찰가능성": [
+    {
+      "name": "grafana-dashboards",
+      "bundle": "infra-ai-bundle",
+      "desc": "Grafana 프로덕션 대시보드"
+    },
+    {
+      "name": "incident-observability",
+      "bundle": "infra-ai-bundle",
+      "desc": "프로덕션 인시던트 분산 추적·대응"
+    },
+    {
+      "name": "migration-observability",
+      "bundle": "infra-ai-bundle",
+      "desc": "마이그레이션 모니터링, CDC"
+    },
+    {
+      "name": "observability-engineer",
+      "bundle": "infra-ai-bundle",
+      "desc": "모니터링, 로깅, 트레이싱 시스템 구축"
+    }
+  ],
+  "인프라 › Hugging Face": [
+    {
+      "name": "hugging-face-cli",
+      "bundle": "infra-ai-bundle",
+      "desc": "HF Hub CLI — 모델/데이터셋/Space 관리"
+    },
+    {
+      "name": "hugging-face-community-evals",
+      "bundle": "infra-ai-bundle",
+      "desc": "inspect-ai / lighteval 로컬 평가"
+    },
+    {
+      "name": "hugging-face-dataset-viewer",
+      "bundle": "infra-ai-bundle",
+      "desc": "Dataset Viewer API 쿼리"
+    },
+    {
+      "name": "hugging-face-datasets",
+      "bundle": "infra-ai-bundle",
+      "desc": "HF Hub 데이터셋 생성·관리"
+    },
+    {
+      "name": "hugging-face-evaluation",
+      "bundle": "infra-ai-bundle",
+      "desc": "모델 카드 평가 결과 관리"
+    },
+    {
+      "name": "hugging-face-jobs",
+      "bundle": "infra-ai-bundle",
+      "desc": "HF Jobs — CPU/GPU/TPU 워크로드 실행"
+    },
+    {
+      "name": "hugging-face-model-trainer",
+      "bundle": "infra-ai-bundle",
+      "desc": "TRL 언어모델 파인튜닝 (SFT, DPO, GRPO)"
+    },
+    {
+      "name": "hugging-face-trackio",
+      "bundle": "infra-ai-bundle",
+      "desc": "ML 실험 Trackio 추적"
+    },
+    {
+      "name": "hugging-face-vision-trainer",
+      "bundle": "infra-ai-bundle",
+      "desc": "비전 모델 파인튜닝 (SAM, SAM2)"
+    }
+  ],
+  "인프라 › Kubernetes": [
+    {
+      "name": "helm-chart-scaffolding",
+      "bundle": "infra-ai-bundle",
+      "desc": "Helm 차트 생성·관리"
+    },
+    {
+      "name": "k8s-manifest-generator",
+      "bundle": "infra-ai-bundle",
+      "desc": "Kubernetes 매니페스트 생성 (Deployment, Service 등)"
+    },
+    {
+      "name": "kubernetes-architect",
+      "bundle": "infra-ai-bundle",
+      "desc": "K8s 아키텍처, GitOps (ArgoCD/Flux), 엔터프라이즈"
+    },
+    {
+      "name": "kubernetes-deployment",
+      "bundle": "infra-ai-bundle",
+      "desc": "K8s 배포 워크플로우, Helm, 서비스 메시"
+    }
+  ],
+  "자동화 › CRM / 영업": [
+    {
+      "name": "hubspot-automation",
+      "bundle": "automation-bundle",
+      "desc": "HubSpot CRM 자동화"
+    },
+    {
+      "name": "hubspot-integration",
+      "bundle": "automation-bundle",
+      "desc": "HubSpot 통합 연동"
+    },
+    {
+      "name": "salesforce-automation",
+      "bundle": "automation-bundle",
+      "desc": "Salesforce 자동화"
+    },
+    {
+      "name": "pipedrive-automation",
+      "bundle": "automation-bundle",
+      "desc": "Pipedrive CRM 자동화"
+    },
+    {
+      "name": "close-automation",
+      "bundle": "automation-bundle",
+      "desc": "Close CRM 자동화"
+    },
+    {
+      "name": "zoho-crm-automation",
+      "bundle": "automation-bundle",
+      "desc": "Zoho CRM 자동화"
+    }
+  ],
+  "자동화 › 마케팅 / 이메일": [
+    {
+      "name": "mailchimp-automation",
+      "bundle": "automation-bundle",
+      "desc": "Mailchimp 이메일 자동화"
+    },
+    {
+      "name": "activecampaign-automation",
+      "bundle": "automation-bundle",
+      "desc": "ActiveCampaign 자동화"
+    },
+    {
+      "name": "convertkit-automation",
+      "bundle": "automation-bundle",
+      "desc": "ConvertKit 자동화"
+    },
+    {
+      "name": "klaviyo-automation",
+      "bundle": "automation-bundle",
+      "desc": "Klaviyo 이메일/SMS 자동화"
+    },
+    {
+      "name": "brevo-automation",
+      "bundle": "automation-bundle",
+      "desc": "Brevo(Sendinblue) 자동화"
+    },
+    {
+      "name": "sendgrid-automation",
+      "bundle": "automation-bundle",
+      "desc": "SendGrid 이메일 자동화"
+    },
+    {
+      "name": "postmark-automation",
+      "bundle": "automation-bundle",
+      "desc": "Postmark 트랜잭션 메일"
+    }
+  ],
+  "자동화 › 프로젝트 관리": [
+    {
+      "name": "asana-automation",
+      "bundle": "automation-bundle",
+      "desc": "Asana 작업 자동화"
+    },
+    {
+      "name": "jira-automation",
+      "bundle": "automation-bundle",
+      "desc": "Jira 이슈 자동화"
+    },
+    {
+      "name": "linear-automation",
+      "bundle": "automation-bundle",
+      "desc": "Linear 이슈 자동화"
+    },
+    {
+      "name": "monday-automation",
+      "bundle": "automation-bundle",
+      "desc": "Monday.com 자동화"
+    },
+    {
+      "name": "clickup-automation",
+      "bundle": "automation-bundle",
+      "desc": "ClickUp 자동화"
+    },
+    {
+      "name": "trello-automation",
+      "bundle": "automation-bundle",
+      "desc": "Trello 자동화"
+    },
+    {
+      "name": "wrike-automation",
+      "bundle": "automation-bundle",
+      "desc": "Wrike 프로젝트 자동화"
+    },
+    {
+      "name": "basecamp-automation",
+      "bundle": "automation-bundle",
+      "desc": "Basecamp 자동화"
+    },
+    {
+      "name": "todoist-automation",
+      "bundle": "automation-bundle",
+      "desc": "Todoist 작업 자동화"
+    },
+    {
+      "name": "notion-automation",
+      "bundle": "automation-bundle",
+      "desc": "Notion 페이지/DB 자동화"
+    },
+    {
+      "name": "airtable-automation",
+      "bundle": "automation-bundle",
+      "desc": "Airtable 자동화"
+    },
+    {
+      "name": "coda-automation",
+      "bundle": "automation-bundle",
+      "desc": "Coda 문서 자동화"
+    }
+  ],
+  "자동화 › 커뮤니케이션": [
+    {
+      "name": "slack-automation",
+      "bundle": "automation-bundle",
+      "desc": "Slack 메시지/채널 자동화"
+    },
+    {
+      "name": "slack-gif-creator",
+      "bundle": "automation-bundle",
+      "desc": "Slack GIF 생성"
+    },
+    {
+      "name": "discord-automation",
+      "bundle": "automation-bundle",
+      "desc": "Discord 자동화"
+    },
+    {
+      "name": "microsoft-teams-automation",
+      "bundle": "automation-bundle",
+      "desc": "Microsoft Teams 자동화"
+    },
+    {
+      "name": "telegram-automation",
+      "bundle": "automation-bundle",
+      "desc": "Telegram 봇 자동화"
+    },
+    {
+      "name": "zoom-automation",
+      "bundle": "automation-bundle",
+      "desc": "Zoom 미팅 자동화"
+    },
+    {
+      "name": "whatsapp-automation",
+      "bundle": "automation-bundle",
+      "desc": "WhatsApp 자동화"
+    }
+  ],
+  "자동화 › 소셜 미디어": [
+    {
+      "name": "twitter-automation",
+      "bundle": "automation-bundle",
+      "desc": "Twitter/X 자동화"
+    },
+    {
+      "name": "instagram-automation",
+      "bundle": "automation-bundle",
+      "desc": "Instagram 자동화"
+    },
+    {
+      "name": "linkedin-automation",
+      "bundle": "automation-bundle",
+      "desc": "LinkedIn 자동화"
+    },
+    {
+      "name": "tiktok-automation",
+      "bundle": "automation-bundle",
+      "desc": "TikTok 자동화"
+    },
+    {
+      "name": "youtube-automation",
+      "bundle": "automation-bundle",
+      "desc": "YouTube 자동화"
+    },
+    {
+      "name": "reddit-automation",
+      "bundle": "automation-bundle",
+      "desc": "Reddit 자동화"
+    }
+  ],
+  "자동화 › Google Workspace": [
+    {
+      "name": "gmail-automation",
+      "bundle": "automation-bundle",
+      "desc": "Gmail 자동화"
+    },
+    {
+      "name": "google-calendar-automation",
+      "bundle": "automation-bundle",
+      "desc": "Google Calendar 자동화"
+    },
+    {
+      "name": "google-docs-automation",
+      "bundle": "automation-bundle",
+      "desc": "Google Docs 자동화"
+    },
+    {
+      "name": "google-drive-automation",
+      "bundle": "automation-bundle",
+      "desc": "Google Drive 자동화"
+    },
+    {
+      "name": "google-sheets-automation",
+      "bundle": "automation-bundle",
+      "desc": "Google Sheets 자동화"
+    },
+    {
+      "name": "google-slides-automation",
+      "bundle": "automation-bundle",
+      "desc": "Google Slides 자동화"
+    },
+    {
+      "name": "google-analytics-automation",
+      "bundle": "automation-bundle",
+      "desc": "GA4 자동화"
+    }
+  ],
+  "자동화 › 결제 / 빌링": [
+    {
+      "name": "stripe-automation",
+      "bundle": "automation-bundle",
+      "desc": "Stripe 결제 자동화"
+    },
+    {
+      "name": "stripe-integration",
+      "bundle": "automation-bundle",
+      "desc": "Stripe 통합 연동"
+    },
+    {
+      "name": "paypal-integration",
+      "bundle": "automation-bundle",
+      "desc": "PayPal 연동"
+    },
+    {
+      "name": "billing-automation",
+      "bundle": "automation-bundle",
+      "desc": "빌링 워크플로 자동화"
+    },
+    {
+      "name": "square-automation",
+      "bundle": "automation-bundle",
+      "desc": "Square 결제 자동화"
+    }
+  ],
+  "자동화 › 개발 / DevOps": [
+    {
+      "name": "gitlab-automation",
+      "bundle": "automation-bundle",
+      "desc": "GitLab CI/CD 자동화"
+    },
+    {
+      "name": "bitbucket-automation",
+      "bundle": "automation-bundle",
+      "desc": "Bitbucket 자동화"
+    },
+    {
+      "name": "circleci-automation",
+      "bundle": "automation-bundle",
+      "desc": "CircleCI 파이프라인 자동화"
+    },
+    {
+      "name": "vercel-automation",
+      "bundle": "automation-bundle",
+      "desc": "Vercel 배포 자동화"
+    },
+    {
+      "name": "render-automation",
+      "bundle": "automation-bundle",
+      "desc": "Render 배포 자동화"
+    },
+    {
+      "name": "cicd-automation-workflow-automate",
+      "bundle": "automation-bundle",
+      "desc": "CI/CD 워크플로 자동화"
+    },
+    {
+      "name": "supabase-automation",
+      "bundle": "automation-bundle",
+      "desc": "Supabase 자동화"
+    },
+    {
+      "name": "datadog-automation",
+      "bundle": "automation-bundle",
+      "desc": "Datadog 모니터링 자동화"
+    },
+    {
+      "name": "sentry-automation",
+      "bundle": "automation-bundle",
+      "desc": "Sentry 에러 자동화"
+    },
+    {
+      "name": "pagerduty-automation",
+      "bundle": "automation-bundle",
+      "desc": "PagerDuty 인시던트 자동화"
+    }
+  ],
+  "자동화 › 고객 지원": [
+    {
+      "name": "zendesk-automation",
+      "bundle": "automation-bundle",
+      "desc": "Zendesk 티켓 자동화"
+    },
+    {
+      "name": "freshdesk-automation",
+      "bundle": "automation-bundle",
+      "desc": "Freshdesk 자동화"
+    },
+    {
+      "name": "freshservice-automation",
+      "bundle": "automation-bundle",
+      "desc": "Freshservice IT 지원 자동화"
+    },
+    {
+      "name": "intercom-automation",
+      "bundle": "automation-bundle",
+      "desc": "Intercom 고객 메시지 자동화"
+    },
+    {
+      "name": "helpdesk-automation",
+      "bundle": "automation-bundle",
+      "desc": "헬프데스크 워크플로 자동화"
+    }
+  ],
+  "자동화 › 생산성 / 디자인": [
+    {
+      "name": "figma-automation",
+      "bundle": "automation-bundle",
+      "desc": "Figma 자동화"
+    },
+    {
+      "name": "canva-automation",
+      "bundle": "automation-bundle",
+      "desc": "Canva 자동화"
+    },
+    {
+      "name": "miro-automation",
+      "bundle": "automation-bundle",
+      "desc": "Miro 보드 자동화"
+    },
+    {
+      "name": "confluence-automation",
+      "bundle": "automation-bundle",
+      "desc": "Confluence 문서 자동화"
+    },
+    {
+      "name": "dropbox-automation",
+      "bundle": "automation-bundle",
+      "desc": "Dropbox 자동화"
+    },
+    {
+      "name": "box-automation",
+      "bundle": "automation-bundle",
+      "desc": "Box 클라우드 자동화"
+    },
+    {
+      "name": "one-drive-automation",
+      "bundle": "automation-bundle",
+      "desc": "OneDrive 자동화"
+    },
+    {
+      "name": "outlook-automation",
+      "bundle": "automation-bundle",
+      "desc": "Outlook 이메일 자동화"
+    },
+    {
+      "name": "outlook-calendar-automation",
+      "bundle": "automation-bundle",
+      "desc": "Outlook 캘린더 자동화"
+    },
+    {
+      "name": "office-productivity",
+      "bundle": "automation-bundle",
+      "desc": "Office 생산성 도구"
+    }
+  ],
+  "자동화 › 분석 / 데이터": [
+    {
+      "name": "amplitude-automation",
+      "bundle": "automation-bundle",
+      "desc": "Amplitude 이벤트 자동화"
+    },
+    {
+      "name": "mixpanel-automation",
+      "bundle": "automation-bundle",
+      "desc": "Mixpanel 분석 자동화"
+    },
+    {
+      "name": "posthog-automation",
+      "bundle": "automation-bundle",
+      "desc": "PostHog 자동화"
+    },
+    {
+      "name": "segment-automation",
+      "bundle": "automation-bundle",
+      "desc": "Segment CDP 자동화"
+    }
+  ],
+  "자동화 › 기타": [
+    {
+      "name": "shopify-automation",
+      "bundle": "automation-bundle",
+      "desc": "Shopify 자동화"
+    },
+    {
+      "name": "wordpress-woocommerce-development",
+      "bundle": "automation-bundle",
+      "desc": "WordPress/WooCommerce 자동화"
+    },
+    {
+      "name": "cal-com-automation",
+      "bundle": "automation-bundle",
+      "desc": "Cal.com 일정 자동화"
+    },
+    {
+      "name": "calendly-automation",
+      "bundle": "automation-bundle",
+      "desc": "Calendly 자동화"
+    },
+    {
+      "name": "docusign-automation",
+      "bundle": "automation-bundle",
+      "desc": "DocuSign 전자서명 자동화"
+    },
+    {
+      "name": "bamboohr-automation",
+      "bundle": "automation-bundle",
+      "desc": "BambooHR HR 자동화"
+    },
+    {
+      "name": "make-automation",
+      "bundle": "automation-bundle",
+      "desc": "Make(Integromat) 자동화"
+    },
+    {
+      "name": "workflow-automation",
+      "bundle": "automation-bundle",
+      "desc": "범용 워크플로 자동화"
+    },
+    {
+      "name": "changelog-automation",
+      "bundle": "automation-bundle",
+      "desc": "Changelog 자동화"
+    },
+    {
+      "name": "protect-mcp-governance",
+      "bundle": "automation-bundle",
+      "desc": "MCP 거버넌스 보안"
+    }
+  ],
+  "인프라 › AI 에이전트 / 도구 설계": [
+    {
+      "name": "senior-fullstack",
+      "bundle": "infra-ai-bundle",
+      "desc": "시니어 풀스택 개발 베스트 프랙티스"
+    },
+    {
+      "name": "context-fundamentals",
+      "bundle": "infra-ai-bundle",
+      "desc": "LLM 컨텍스트 엔지니어링 기초"
+    },
+    {
+      "name": "tool-design",
+      "bundle": "infra-ai-bundle",
+      "desc": "AI 에이전트 도구 설계 패턴"
+    },
+    {
+      "name": "clarvia-aeo-check",
+      "bundle": "infra-ai-bundle",
+      "desc": "MCP 서버 에이전트 준비도 체크"
+    },
+    {
+      "name": "manifest",
+      "bundle": "infra-ai-bundle",
+      "desc": "Manifest 에이전트 옵저버빌리티 플러그인"
+    }
+  ],
+  "1인 기업 › 생산성": [
+    {
+      "name": "product-manager-toolkit",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "PM 프레임워크 & 도구"
+    },
+    {
+      "name": "presentation",
+      "bundle": "solopreneur-ko-bundle",
+      "desc": "슬라이드/발표 자료 구성"
+    }
+  ]
+}
